@@ -1,0 +1,22 @@
+{
+  "name": "Antiquities of the Jews",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/antiquities-of-the-jews/master/assets",
+  "book_id": 922,
+  "book_url": "https://bubblin.io/book/antiquities-of-the-jews-by-flavius-josephus"
+}
